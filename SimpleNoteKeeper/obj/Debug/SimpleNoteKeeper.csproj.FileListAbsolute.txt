@@ -1,0 +1,110 @@
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\SimpleNoteKeeper.dll.config
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\SimpleNoteKeeper.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\SimpleNoteKeeper.pdb
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Antlr3.Runtime.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\EntityFramework.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\EntityFramework.SqlServer.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Newtonsoft.Json.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Owin.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Helpers.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Mvc.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Optimization.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Razor.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.Razor.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\WebGrease.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Helpers.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Mvc.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Optimization.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Razor.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.Razor.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Antlr3.Runtime.pdb
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Newtonsoft.Json.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\EntityFramework.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\EntityFramework.SqlServer.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\obj\Debug\SimpleNoteKeeper.csprojResolveAssemblyReference.cache
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\obj\Debug\SimpleNoteKeeper.dll
+C:\Users\anders\Documents\GitHub\SimpleExamples\SimpleNoteKeeper\SimpleNoteKeeper\obj\Debug\SimpleNoteKeeper.pdb
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\SimpleNoteKeeper.dll.config
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\SimpleNoteKeeper.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\SimpleNoteKeeper.pdb
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Antlr3.Runtime.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\EntityFramework.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\EntityFramework.SqlServer.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Google.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Web.Infrastructure.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Newtonsoft.Json.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Owin.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Helpers.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Mvc.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Optimization.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Razor.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.Deployment.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.Razor.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\WebGrease.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Helpers.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Mvc.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Optimization.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.Razor.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.Deployment.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\System.Web.WebPages.Razor.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Antlr3.Runtime.pdb
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Newtonsoft.Json.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\EntityFramework.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\EntityFramework.SqlServer.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Google.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\obj\Debug\SimpleNoteKeeper.csprojResolveAssemblyReference.cache
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\obj\Debug\SimpleNoteKeeper.dll
+F:\Formatering bærbar\UCN\Mcv\SimpleNoteKeeper\SimpleNoteKeeper\obj\Debug\SimpleNoteKeeper.pdb
